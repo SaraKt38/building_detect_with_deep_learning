@@ -1,4 +1,4 @@
-# building_detect_with_deep_learning
+# Building_detect_with_deep_learning
 L'apport du Deep Learning pour la détection d'adresses et le déploiement de la fibre optique en zone rurale
 # L'apport du Deep Learning pour la Détection d'Adresses et le Déploiement de la Fibre Optique en Zone Rurale
 
